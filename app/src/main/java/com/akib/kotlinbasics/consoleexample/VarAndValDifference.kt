@@ -1,4 +1,4 @@
-package com.akib.kotlinbasics
+package com.akib.kotlinbasics.consoleexample
 
 fun VarAndValDifference(){
     var variableVar:String = "Value1"
